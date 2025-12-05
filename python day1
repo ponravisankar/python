@@ -1,0 +1,33 @@
+pythonn day 1
+print sattements
+run time inputs
+eg:
+   print("Hello"+input ("What is your name?")+"!"
+output:
+   What is your name? Ravi
+   Hello Ravi
+length of the string (Using len key word to find the length of the string)
+string commands:(concatenation)
+   print ("123+456")
+output:
+   123456
+   print(123+345)
+output:
+   468
+declearing a value inside "" mathametical calculations
+   print (int("123")+int("456")
+output:
+   579
+number manipulation and fstring in python:
+   bmi=84/1.65*2
+   print(bmi)
+   print (int (bmi))
+   print (int(bmi))
+   print(round(bmi)
+   print(round(bmi,2)
+output:
+   30.8539
+   30
+   31
+   30.85
+   30.85
