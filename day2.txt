@@ -1,0 +1,26 @@
+python:
+=======
+   The Python Input Function
+   Python Variables
+   Variables
+   Variable Naming
+   Python Primitive Data Types
+  Data Types 
+ Type Error, Type Checking and Type Conversion
+ Mathematical Operations in Python
+ Coding Exercise 4 BMI Calculator
+ Number Manipulation and F Strings in Python
+ Mathematical Operations Quiz
+ Tip Calculator
+
+Azure:
+======
+	describe cloud
+	shared responsible model
+	public,private,hybrid cloud
+	cloud pricing
+	describe cloud compting
+	high availability
+	planned outages and unplanned outages
+   	methods to mitigate planned outages
+	methods to mitigate unplanned outages
