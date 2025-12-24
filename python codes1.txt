@@ -159,9 +159,6 @@ creating azure functions
 kubernets and azure container instances
 azure container apps
 how to delete azure resources
----------------------------------------------------------------------------
-python
-======
 ===========================================================================
 dec 11
 ======
@@ -216,6 +213,167 @@ azure advisor
 azure service health
 azure monitor centralized Dashboard
 azure monitor reports
+==============================================================================
+dec 15
+======
+azure
+======
+azure fundamental with the help pf AI
+FAQS
+what is cloud computing
+share responsibility model
+public,private cloud,hybrid cloud
+cloud pricing
+pricing calculator
+high availability benefit of cloud computing
+scalability benefit of cloud computing
+elasticity benefit of cloud computing
+predictability benefits of cloud computing
+==================================================================================
+dec 17
+======
+python
+=======
+jumping over hudles with variable heights
+pick random words and checking answers
+replacing blanks with guesses
+checking if the player has won 
+keeping track of the player's lives
+improving the user experience
+-----------------------------------------------------------------------------------
+azure
+=====
+security benefit of cloud computing
+governance benefit of cloud computing
+manageability benefits of cloud computing
+serverless
+azure compute service and azure virtual machine
+scaling virtual machines using VM scale sets(VMSS)
+availability sets and proximaty groups
+app services,containers and azure virtual desktop
+====================================================================================
+dec 18
+=======
+azure
+======
+azure functions 
+azure network services
+network peering,azure DNS,and VPN gateways
+public and private endpoints
+creating a virtual machine(VM)
+connecting to a virtual machine
+creating azure app services/web apps
+azure app services in action
+------------------------------------------------------------------------------------
+python
+======
+function with inputs
+life in week (program)
+positional vs keyword arguments
+love calculator
+Caesar cipher part-1 (program)
+====================================================================================
+dec 20
+======
+azure
+=====
+creating azure function 
+Kubernetes and azure container instances 
+azure container apps
+how to delete azure resources
+overview of azure storage
+container (blog)storage
+-------------------------------------------------------------------------------------
+
+python
+======
+Caesar cipher part-2 (program)
+Caesar cipher part-3 (program)
+the python dictionary :deep dive
+grading (program)
+nesting list and dictionaries
+====================================================================================
+dec 21
+=======
+azure
+=====
+create an unmanaged storage account
+upload files to a storage account
+azure storage explorer and storage browser
+AZCOPY
+azure files and azure file sync
+------------------------------------------------------------------------------------
+python
+======
+the secret auction program instructions and flow chart
+fuctions with outputs
+multiple return values
+leap year
+docstrings
+fuctions quiz
+the calculator project
+=====================================================================================
+dec 22
+=======
+python
+=======
+blackjack program requirements and game rules
+hint 4 & 5 solution walkthrough
+hint 6 - 8 solution walkthrough
+hint 9 solution walkthrough:Refactoring and caaling calculate-score()
+hint 10-12 solution walkthrough
+hint 13 solution walkthrough
+----------------------------------------------------------------------------------------
+azure
+======
+azure migrate
+azure data box
+identify and Microsoft entra ID (formaly azure active directory)
+benefits of Microsoft entra ID 
+authentication vs authorization
+external identities
+single sign-on in azure
+========================================================================================
+dec 23
+=======
+azure 
+======
+azure AD conditional access
+multi-factor authentication (MFA or 2FA)
+passwordless
+Role-based access control(RBAC)
+zero-trust model of security
+defence in depth
+Microsoft defender for cloud
+----------------------------------------------------------------------------------------
+python
+=======
+local vs global scope
+does python have block scope?
+prime number checker
+how to modify a global variable
+pyhton constants and global scope
+introducing the final project:The number guessing game
+solution and walkthrough to the number guessing game
+======================================================================================= 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
