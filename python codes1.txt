@@ -355,7 +355,73 @@ how to modify a global variable
 pyhton constants and global scope
 introducing the final project:The number guessing game
 solution and walkthrough to the number guessing game
-======================================================================================= 
+=======================================================================================
+dec 24
+======
+Azure
+=====
+factors that affect cost
+azure pricing calculator
+azure cost management
+resource tag
+azure governamce and compliance
+azure policy
+demo:azure police
+------------------------------------------------------------------------------------------
+python
+======
+describe the problem
+reproduce the bug
+play computer and evaluate each line
+fixing errors and watching for red underlines
+squash bug with a print() statement
+bringing out the BIG gub:using a debugger
+final debugging tips
+debugging odd or even
+debugging leap year
+======================================================================================
+dec 25
+======
+azure
+=====
+resource locks
+Microsoft purview
+the azure portal
+azure cloud shell
+creating resources using command line
+azure Arc
+Infrastructure as code (IaC)
+ARM templates
+----------------------------------------------------------------------------------------
+python
+======
+debugging fizzbuzz
+introduction & program requirements for the higher lower game
+solution & walkthrough of the higher lower game
+introduction & requirement for the coffee machine project
+========================================================================================
+dec 26
+======
+python
+=======
+solution & walkthrough for the coffee machine code
+define OOP
+OOP:classes and objects
+constructing objects and accesing their attributes and methods
+add python packages and use pypi
+practice modifying object attributes and calling methods
+------------------------------------------------------------------------------------------
+azure
+======
+generate ARM templates int the azure portal
+azure advisior
+azure service health
+azure monitor centralized dashboard
+azure monitor reports
+=====================================================================================
+dec 27
+=======
+
 
 
 
