@@ -1,0 +1,6 @@
+computer networks:
+==================
+Basic networking concepts, hardware, and topologies
+IP addressing and subnetting (IPv4 and IPv6)
+Network hardware devices (routers, switches, firewalls, etc.)
+Wireless principles and network cable types

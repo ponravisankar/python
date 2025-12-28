@@ -1,0 +1,87 @@
+Azure:
+======
+describe cloud
+shared responsible model
+public,private,hybrid cloud
+cloud pricing
+describe cloud compting
+high availability
+planned outages and unplanned outages
+methods to mitigate planned outages
+methods to mitigate unplanned outages
+high availability benefits of cloud computing
+scalability benefits
+elasticity
+relability benefits
+predictability
+security
+governance benefit 
+manageability
+cloud service types
+serverless
+regions,region pairs,sovereign regions
+availability zones and data centers
+resources and resources groups
+supscriptions management groups
+management groups
+compute srrvices and azure virtual machines
+scaling virtual machines using vm scale set
+availability set and proximity groups
+app services, containers and azure virtual desktop
+app service container and virtual desktop
+azure functions
+network services
+network peering,azure DNS, and VPN gateway
+public and private endpoints
+creating a virtual machine 
+connecting to a virtual machine
+creating azure app service/web apps
+azure app service in action
+creating azure functions
+kubernets and azure container instances
+azure container apps
+how to delete azure resources
+overview of azure storage
+container(Blob) Storage
+create an unmanaged storage account
+upload files to a storage account
+azure storage explorer and storage browser
+AZCOPY
+azure files and azure file Sync
+azure migrate
+azure data box
+identity and Microsoft entra id
+benefits of Microsoft entra id
+authentication vs authorization
+external identities
+single sing-on in azure
+azure AD conditional access
+multi-factor authentication(MFA or 2FA)
+passwordless
+role-based access control
+zero-trust model of security
+Microsoft defender of cloud
+factors that affect cost
+azure pricing calculator
+azure cost management
+resource tags
+azure governance and compliance
+azure policy
+azure policy
+resource locks
+Microsoft purview
+the azure portal
+azure cloud shell
+create resources using command line
+azure Arc
+infrastructure as code (IaC)
+ARM templates
+generate ARM Templates in azure portal
+azure advisor
+azure service health
+azure monitor centralized Dashboard
+azure monitor reports
+azure fundamental with the help pf AI
+FAQS
+
+
