@@ -421,8 +421,14 @@ azure monitor reports
 =====================================================================================
 dec 27
 =======
-
-
+python
+=======
+building the coffee machine
+how to create your own class in python
+working with attributes,class constructors and _init_() function
+adding methods to a class
+creating the question class
+quiz brain and the next question() method
 
 
 

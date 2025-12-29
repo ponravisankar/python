@@ -83,5 +83,10 @@ azure monitor centralized Dashboard
 azure monitor reports
 azure fundamental with the help pf AI
 FAQS
+=================================================================================================================
 
+dec 29
+=======
+practice test-set 1
+practice test-set 2
 
