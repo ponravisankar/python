@@ -435,8 +435,18 @@ dec 29
 creating the list of question object from the data method(part 2)
 the quizbrain and the next question () method (part 3)
 how to continue showing new questions (part 4)
-checking answers and keeping score
+checking answers and keeping score(part 5)
 benefits of OOP:use open trivia DB to get new questions
+===============================================================================================
+dec 30
+======
+understanding turtle graphics and how to use the documentation
+importing modules,installing packages,and working with aliases
+turtle challenge 1 - draw a square
+turtle challenge 2 - draw a dashed line
+turtle challenge 3 - drawing different shapes
+turtle challenge 4 - generate a random walk
+==============================================================================================
 
 
 
