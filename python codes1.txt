@@ -428,9 +428,15 @@ how to create your own class in python
 working with attributes,class constructors and _init_() function
 adding methods to a class
 creating the question class
-quiz brain and the next question() method
-
-
+quiz brain and the next question() method(part 1)
+=============================================================================================
+dec 29
+=======
+creating the list of question object from the data method(part 2)
+the quizbrain and the next question () method (part 3)
+how to continue showing new questions (part 4)
+checking answers and keeping score
+benefits of OOP:use open trivia DB to get new questions
 
 
 
