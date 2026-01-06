@@ -448,6 +448,37 @@ turtle challenge 3 - drawing different shapes
 turtle challenge 4 - generate a random walk
 ==============================================================================================
 
+dec 31
+=======
+python tuples and how to generate random RGB colours
+draw a spirograph
+the hirst painting project part1 - How to extract RGB values from images
+the hirst painting project part2 - draw the dots
+============================================================================================
+
+jan 1
+=====
+python higher order function & Event listeners
+challenge:Make an Etch-A-Sketch app
+object states and instances
+understanding the turtle coordinate system
+Aaaand,we're off to the races!
+
+jan 2
+=====
+screen setup and creating a snake body
+animating the snake segments on screen
+create a snake segments on screen 
+how to control the snake segments on screen
+create a snake class & move to OOP
+==========================================================================================
+jan 3
+=====
+how to control the snake with a keypress
+class inheritance
+create a scoreboard and keep score
+detect collisions with the wall
+==========================================================================================
 
 
 
