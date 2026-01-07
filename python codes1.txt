@@ -477,8 +477,40 @@ jan 3
 how to control the snake with a keypress
 class inheritance
 create a scoreboard and keep score
-detect collisions with the wall
+detect collisions with the food
 ==========================================================================================
+jan 4
+======
+create a scoreboard and keep score
+detect collisions with the wall
+detect collisions with your own tail
+how to slice lists & Tuples in python
+set up the main screen
+create a paddle class and create the second paddle
+===========================================================================================
+jan 5
+======
+write the paddle class and make the ball move
+add the ball bouncing logic
+how to detect collisions with the paddle
+how to detect when the ball goes out of bounds
+score keeping and changing the ball speed
+==========================================================================================
+jan 6
+======
+how to use the starter code
+create the player behaviour
+create the car behaviour
+detect when the turtle collides with a car *squish*
+=======================================================================================
+jan 7
+=====
+detect when the player has reached the outer side
+add the scoreboard and game over sequence
+add a high score to the snake game
+how to open,read and write the high score to a file in snake
+understand relative and absolute file paths
+
 
 
 
