@@ -510,6 +510,19 @@ add the scoreboard and game over sequence
 add a high score to the snake game
 how to open,read and write the high score to a file in snake
 understand relative and absolute file paths
+======================================================================================
+jan 8
+======
+solution and walking for the mail merge project
+reading CSV data in python
+dataframe & series:Working with Rows & Columns
+the great squirrel census data analysis(with pandas)
+program:
+state game
+setup
+challenge with.csv
+saving data to.csv
+
 
 
 
