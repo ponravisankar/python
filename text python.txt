@@ -1,0 +1,146 @@
+print sattements
+run time inputs
+string commands:(concatenation)
+number manipulation and fstring in python:
+   The Python Input Function
+   Python Variables
+   Variables
+   Variable Naming
+   Python Primitive Data Types
+  Data Types 
+ Type Error, Type Checking and Type Conversion
+ Mathematical Operations in Python
+ Coding Exercise 4 BMI Calculator
+ Number Manipulation and F Strings in Python
+ Mathematical Operations Quiz
+ Tip Calculator
+pizza order practice
+logical operators
+treasure Island
+random module
+offset and appending items to list 
+who will pay the bill (program)
+Index errors and working with nested list
+list and index error rock paper scissors(program)
+for loop with lists 
+highest score (program)
+for loops and range () function
+create a password generator
+defining and calling python functions
+hurdles loop challenge (program)
+indentation in python
+while loops
+hurdeles loop using while loop
+Escaping the maze (program)
+complex problem down into a flow chart
+jumping over hudles with variable heights
+pick random words and checking answers
+replacing blanks with guesses
+checking if the player has won 
+keeping track of the player's lives
+improving the user experience
+function with inputs
+life in week (program)
+positional vs keyword arguments
+love calculator
+Caesar cipher part-1 (program)
+Caesar cipher part-2 (program)
+Caesar cipher part-3 (program)
+the python dictionary :deep dive
+grading (program)
+nesting list and dictionaries
+the secret auction program instructions and flow chart
+fuctions with outputs
+multiple return values
+leap year
+docstrings
+fuctions quiz
+the calculator project
+blackjack program requirements and game rules
+hint 4 & 5 solution walkthrough
+hint 6 - 8 solution walkthrough
+hint 9 solution walkthrough:Refactoring and caaling calculate-score()
+hint 10-12 solution walkthrough
+hint 13 solution walkthrough
+local vs global scope
+does python have block scope?
+prime number checker
+how to modify a global variable
+pyhton constants and global scope
+introducing the final project:The number guessing game
+solution and walkthrough to the number guessing game
+describe the problem
+reproduce the bug
+play computer and evaluate each line
+fixing errors and watching for red underlines
+squash bug with a print() statement
+bringing out the BIG gub:using a debugger
+final debugging tips
+debugging odd or even
+debugging leap year
+resource locks
+introduction & program requirements for the higher lower game
+solution & walkthrough of the higher lower game
+introduction & requirement for the coffee machine project
+solution & walkthrough for the coffee machine code
+define OOP
+OOP:classes and objects
+constructing objects and accesing their attributes and methods
+add python packages and use pypi
+practice modifying object attributes and calling methods
+building the coffee machine
+how to create your own class in python
+working with attributes,class constructors and _init_() function
+adding methods to a class
+creating the question class
+quiz brain and the next question() method(part 1)
+creating the list of question object from the data method(part 2)
+the quizbrain and the next question () method (part 3)
+how to continue showing new questions (part 4)
+checking answers and keeping score(part 5)
+benefits of OOP:use open trivia DB to get new questions
+understanding turtle graphics and how to use the documentation
+importing modules,installing packages,and working with aliases
+turtle challenge 1 - draw a square
+turtle challenge 2 - draw a dashed line
+turtle challenge 3 - drawing different shapes
+turtle challenge 4 - generate a random walk
+python tuples and how to generate random RGB colours
+draw a spirograph
+the hirst painting project part1 - How to extract RGB values from images
+the hirst painting project part2 - draw the dots
+python higher order function & Event listeners
+challenge:Make an Etch-A-Sketch app
+object states and instances
+understanding the turtle coordinate system
+Aaaand,we're off to the races!
+screen setup and creating a snake body
+animating the snake segments on screen
+create a snake segments on screen 
+how to control the snake segments on screen
+create a snake class & move to OOP
+how to control the snake with a keypress
+class inheritance
+create a scoreboard and keep score
+detect collisions with the food
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       
