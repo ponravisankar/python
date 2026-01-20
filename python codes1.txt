@@ -522,6 +522,14 @@ state game
 setup
 challenge with.csv
 saving data to.csv
+========================================================================================
+jan 20
+======
+how to create lists using list comprehension
+program :
+	squaring numbers
+	filtering even numbers
+	data overlap
 
 
 

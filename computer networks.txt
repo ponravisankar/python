@@ -5,5 +5,9 @@ IP addressing and subnetting (IPv4 and IPv6)
 Network hardware devices (routers, switches, firewalls, etc.)
 Wireless principles and network cable types
 ===========================================================================================================================
-jan 7
-=====
+jan 20
+======
+configuring default routing,static routeing
+synamic routing
+vlan routing
+dynamic routing protocols overview
