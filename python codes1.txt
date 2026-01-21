@@ -530,7 +530,15 @@ program :
 	squaring numbers
 	filtering even numbers
 	data overlap
-
+===============================================================================================
+jan 21
+======
+program :
+	dictionary comprehension 1
+	dictionary comprehension 2
+iterate over a pandas data frame
+NATO alphapet project
+solution and walkthrough for the NATO alphapet project
 
 
 

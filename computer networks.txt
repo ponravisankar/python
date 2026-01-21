@@ -11,3 +11,12 @@ configuring default routing,static routeing
 synamic routing
 vlan routing
 dynamic routing protocols overview
+==============================================================================================================================
+jan 21
+======
+OSPF Routing protocol basics
+OSPF hello protocol and link state database
+OSPF LSA type explained
+OSPF basic configuration
+OSPF multi area configuration
+================================================================================================================================
